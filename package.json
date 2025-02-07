@@ -1,5 +1,5 @@
 {
-  "name": "@odderon/knex",
+  "name": "odderon-knex",
   "version": "0.19.5",
   "private": false,
   "description": "A batteries-included SQL query & schema builder for Postgres, MySQL and SQLite3 and the Browser",
