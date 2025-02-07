@@ -78,7 +78,7 @@
     "sinon": "^7.5.0",
     "sinon-chai": "^3.3.0",
     "source-map-support": "^0.5.13",
-    "sqlite3": "^4.1.0",
+    "sqlite3": "5.1.7",
     "tap-spec": "^5.0.0",
     "tape": "^4.11.0",
     "toxiproxy-node-client": "^2.0.6",
