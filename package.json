@@ -1,6 +1,6 @@
 {
   "name": "odderon-knex",
-  "version": "0.19.6",
+  "version": "0.19.7",
   "private": false,
   "description": "A batteries-included SQL query & schema builder for Postgres, MySQL and SQLite3 and the Browser. Forked from knex 0.19.5 and backported with pg-native support.",
   "main": "knex.js",

@@ -1,4 +1,17 @@
-# Master (Unreleased)
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 0.19.7 (2025-02-07)
+
+
+### Bug Fixes
+
+* pg change for pg-native and sqlite upgraded to 5.1.7 ([386d7ff](https://github.com/kristobalus/knex/commit/386d7ffde42e3690f9325c2d7498ebb1e2ad1657))
+* public package ([5c1e19a](https://github.com/kristobalus/knex/commit/5c1e19a5d0a8a8d4abf66e3f0db2277cefff7666))
+* public package ([d07751d](https://github.com/kristobalus/knex/commit/d07751d2a176e8780d5210b68f1327e43e6e5951))
+* public package ([3a5006b](https://github.com/kristobalus/knex/commit/3a5006bc7b825eab83d017b624ae6edb77389458))
+* public package ([19246d9](https://github.com/kristobalus/knex/commit/19246d91c3415403d6ccf477d05a144505cf44c1))
 
 # 0.19.5 - 06 October, 2019
 
