@@ -10,6 +10,12 @@
 
 > **A SQL query builder that is _flexible_, _portable_, and _fun_ to use!**
 
+
+### Warning!
+This repository was forked from knex.js 0.19.5 and enriched with a backported support for *libpq* via pg-native package.
+
+
+### Description
 A batteries-included, multi-dialect (MSSQL, MySQL, PostgreSQL, SQLite3, Oracle (including Oracle Wallet Authentication)) query builder for
 Node.js, featuring:
 
